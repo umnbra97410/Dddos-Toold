@@ -1,7 +1,7 @@
 # Dddos-Tools
 
-* Best new T00ls for dd0s !
+## Best new T00ls for dd0s !
 
-* Requirements python, MAC or IOS
+**Requirements python, MAC or IOS**
 
-* Link and IP 
+* Link and IP ✅
